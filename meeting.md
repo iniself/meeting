@@ -1,6 +1,6 @@
 # 一些想法
 ---
-![](/Users/peter/Desktop/resource/1.jpg)
+![](1.jpg)
 ---
 ### 鞋子不合脚怎么办？
 ---
